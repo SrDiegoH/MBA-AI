@@ -1,4 +1,0 @@
-Doc: https://docs.python.org/pt-br/3/library/venv.html
-Criar ambiente virtual: python -m venv "$env:USERPROFILE\Workspace\MBA-IA\Nivelamento\venv"
-Ativar ambiente virtual: cd "$env:USERPROFILE\Workspace\MBA-IA\Nivelamento\venv\Scripts"; .\Activate.ps1 ; cd "..\..\code"
-Instalar libs do requirements.txt: pip install -r "$env:USERPROFILE\Workspace\MBA-IA\Nivelamento\code\requirements.txt"
